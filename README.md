@@ -1,3 +1,3 @@
 
 
-glitchcade-swst.vercel.app
+www.glitchcade-swst.vercel.app
