@@ -6,10 +6,10 @@ class AudioManager {
   private initialized = false;
 
   private musicTracks = [
-    '/Music2.mp3',
-    '/Music4.mp3',
-    '/Music3.mp3',
-    '/Music1.mp3'
+    '/music2.mp3',
+    '/music4.mp3',
+    '/music3.mp3',
+    '/music1.mp3'
   ];
   private currentTrackIndex = 0;
   private musicElement: HTMLAudioElement | null = null;
